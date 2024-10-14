@@ -1,11 +1,10 @@
 {
   "name": "C Programming Dev Environment",
-  "image": "gcc:latest", // Uses GCC image to compile C code
+  "image": "gcc:latest",
   "customizations": {
     "vscode": {
-      "extensions": ["ms-vscode.cpptools"] // C/C++ extension for VSCode
+      "extensions": ["ms-vscode.cpptools"]
     }
   },
-  "features": {
-    "Github workflow"%files'}
-
+  "features": {}
+}
