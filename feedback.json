@@ -1,1 +1,24 @@
 
+{
+  "student": "john_doe",
+  "assignment": "C Programming Assignment",
+  "total_score": 30,
+  "details": [
+    {
+      "test_name": "Test Sum Function",
+      "status": "",
+      "points": 
+    },
+    {
+      "test_name": "Code Compilation",
+      "status": "",
+      "points": 
+    },
+    {
+      "test_name": "Program Execution",
+      "status": "",
+      "points": ,
+      "comments": "Program did not handle inputs correctly."
+    }
+  ]
+}
